@@ -1,0 +1,20 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: darkgreen;
+    font-size: 30px;
+    
+}
+canvas{
+    border: 5px solid darkgreen;
+    margin-top: 3%;
+}
